@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website projects for showing how t use Git and Github together.
+Updating for emergency fix after stashing.
 
 
 ## Introduction
