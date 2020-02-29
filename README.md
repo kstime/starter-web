@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-blah blah blah - adding a line for rebasing example
+2020 Git.Training All rights reserved.
